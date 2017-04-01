@@ -10,4 +10,3 @@ function getTriangleArea(a, h) {
 	return a * h / 2
 }
 console.log( getTriangleArea(10,6), triangle1Area, triangle2Area, triangle3Area);
-
